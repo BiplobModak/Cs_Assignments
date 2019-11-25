@@ -1,0 +1,11 @@
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.exe
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.deps.json
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.runtimeconfig.json
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.runtimeconfig.dev.json
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.dll
+G:\zzunityworkassig\blog\bin\Debug\netcoreapp3.0\blog.pdb
+G:\zzunityworkassig\blog\obj\Debug\netcoreapp3.0\blog.csprojAssemblyReference.cache
+G:\zzunityworkassig\blog\obj\Debug\netcoreapp3.0\blog.AssemblyInfoInputs.cache
+G:\zzunityworkassig\blog\obj\Debug\netcoreapp3.0\blog.AssemblyInfo.cs
+G:\zzunityworkassig\blog\obj\Debug\netcoreapp3.0\blog.dll
+G:\zzunityworkassig\blog\obj\Debug\netcoreapp3.0\blog.pdb
